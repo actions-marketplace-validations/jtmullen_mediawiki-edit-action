@@ -27,7 +27,7 @@
   "dependencies": {
     "@actions/core": "^1.2.5",
     "@actions/github": "^4.0.0",
-    "mwn": "^0.10.0",
+    "mwn": "^1.11.4",
     "update": "^0.7.4"
   },
   "devDependencies": {
