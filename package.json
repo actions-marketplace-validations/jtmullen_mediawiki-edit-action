@@ -26,7 +26,7 @@
   "homepage": "https://github.com/jtmullen/mediawiki-edit-action#readme",
   "dependencies": {
     "@actions/core": "^1.2.5",
-    "@actions/github": "^4.0.0",
+    "@actions/github": "^5.1.1",
     "mwn": "^0.10.0",
     "update": "^0.7.4"
   },
